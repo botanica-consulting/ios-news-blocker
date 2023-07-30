@@ -241,6 +241,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 3C8F713B2A768F8200192D92 /* Build configuration list for PBXNativeTarget "filter" */;
 			buildPhases = (
+				3CEE5B132A76B4D1007C321D /* ShellScript */,
 				3C8F712D2A768F8100192D92 /* Sources */,
 				3C8F712E2A768F8100192D92 /* Frameworks */,
 				3C8F712F2A768F8100192D92 /* Resources */,
@@ -333,6 +334,26 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3CEE5B132A76B4D1007C321D /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "cd filter/\npython3 blockerList.py\n";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		3C8F70E92A768F4800192D92 /* Sources */ = {

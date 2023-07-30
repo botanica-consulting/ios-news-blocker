@@ -17,7 +17,7 @@ jpost.com
 kan.org.il
 kikar.co.il
 kore.co.il
-maariv
+maariv.co.il
 mako.co.il
 n12.co.il
 news.google.co.il
@@ -27,7 +27,6 @@ newsnow.co.il
 nli.org.il
 now14.co.il
 pc.co.il
-rotter
 rotter.net
 srugim.co.il
 themarker.com
