@@ -3,6 +3,7 @@
 bignews.co.il
 bizportal.co.il
 calcalist.co.il
+m.calcalist.co.il
 geektime.co.il
 globes.co.il
 haaretz.co.il
@@ -18,6 +19,7 @@ kan.org.il
 kikar.co.il
 kore.co.il
 maariv.co.il
+m.maariv.co.il
 mako.co.il
 n12.co.il
 news.google.co.il
